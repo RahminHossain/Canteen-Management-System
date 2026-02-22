@@ -38,3 +38,7 @@ This project was developed as part of academic coursework in Computer Science an
 1. Download or clone the repository.
 2. Move the project folder into the `htdocs` directory inside your XAMPP installation.
    Example path:
+3. Start Apache and MySQL from the XAMPP Control Panel.
+4. Import the provided `canteen.sql` file into phpMyAdmin.
+5. Open your browser and run:
+   http://localhost/canteen
