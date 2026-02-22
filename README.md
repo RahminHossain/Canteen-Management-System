@@ -1,13 +1,12 @@
 # Web-Based Canteen Management System
 
-## 📌 Project Overview
+## Project Overview
 The Web-Based Canteen Management System is a database-driven web application developed to streamline canteen operations. The system allows users to manage orders efficiently while providing administrative control over order processing and item management.
 
 This project was developed as part of academic coursework in Computer Science and Engineering.
 
----
 
-## 🚀 Features
+## Features
 - Start a new order
 - Add items to an order
 - View order details
@@ -15,9 +14,8 @@ This project was developed as part of academic coursework in Computer Science an
 - Basic order tracking
 - CRUD operations for order management
 
----
 
-## 🛠️ Technologies Used
+## Technologies Used
 - PHP
 - MySQL
 - HTML
@@ -25,9 +23,8 @@ This project was developed as part of academic coursework in Computer Science an
 - Bootstrap
 - XAMPP
 
----
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
 ### Requirements:
 - XAMPP installed (Apache & MySQL)
